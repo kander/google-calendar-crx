@@ -130,7 +130,7 @@
   },
 
   "option_time_until_next_includes_all_day_events": {
-    "message": "Omvatten de hele dag duren bij de berekening van de tijd tot de volgende gebeurtenis.",
+    "message": "Afspraken die de hele dag duren meenemen bij het berekenen van de tijd tot de volgende afspraak.",
     "description": "The name of the option that ensures all-day events are included when computing the time to next event."
   },
 
